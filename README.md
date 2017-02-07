@@ -18,7 +18,9 @@ move to the location where you want to place the code in your System and type
 git clone https://github.com/kothagundlahari/movie.git
 
 #How to run the code
-Go to movie/entertainment_center.py and run it in your environment
+Go to movie/entertainment_center.py 
+
+run it in your environment(IDE)
 
 
 #License
