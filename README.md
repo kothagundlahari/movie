@@ -1,4 +1,4 @@
-Description
+Synopsis
 This project opens a web page( Fresh Tomatoes!) displays movie posters when you click any one of the posters it plays a
 youtube trailer for that particular poster.
 
@@ -11,13 +11,12 @@ Each movie is instantiated with media.Movie() and all the movies which are insta
 movie/fresh_tomatoes.html:
 Takes the movies array in entertainment_center.py and display the HTML page
 
-How to Download
-move to the location in System and type
-git clone https://github.com/kothagundlahari/movie.git
-
 How to run the code
 Go to movie/entertainment_center.py and run it in your environment
 
+Installation
+move to the location in System and type
+git clone https://github.com/kothagundlahari/movie.git
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
