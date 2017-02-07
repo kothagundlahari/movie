@@ -15,9 +15,9 @@ Takes the movies array in entertainment_center.py and display the HTML page
 #How to run the code
 Go to movie/entertainment_center.py and run it in your environment
 
-Installation
+#Installation
 move to the location in System and type
 git clone https://github.com/kothagundlahari/movie.git
 
-License
+#License
 This project is licensed under the MIT License - see the LICENSE.md file for details
