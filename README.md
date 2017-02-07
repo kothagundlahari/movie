@@ -12,12 +12,14 @@ Each movie is instantiated with media.Movie() and all the movies which are insta
 ###movie/fresh_tomatoes.html:
 Takes the movies array in entertainment_center.py and display the HTML page
 
+#Installation
+move to the location where you want to place the code in your System and type
+
+git clone https://github.com/kothagundlahari/movie.git
+
 #How to run the code
 Go to movie/entertainment_center.py and run it in your environment
 
-#Installation
-move to the location in System and type
-git clone https://github.com/kothagundlahari/movie.git
 
 #License
 This project is licensed under the MIT License - see the LICENSE.md file for details
